@@ -24,7 +24,7 @@
 <title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Destaques[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/olFVDU.png</thumbnail>
 <link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=featured</jsonrpc>
+<jsonrpc>script.livetvbeta</jsonrpc>
 <fanart></fanart>
 </item>
 
@@ -32,7 +32,7 @@
 <title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Vencedores de Óscares[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/cjBmSE.png</thumbnail>
 <link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=oscars</jsonrpc>
+<jsonrpc>plugin://script.livetvbeta</jsonrpc>
 <fanart></fanart>
 </item>
 

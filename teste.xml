@@ -37,33 +37,16 @@
 </item>
 
 <item>
-<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Pesquisar[/B][/COLOR]</title
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]f[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/4kYHFc.png</thumbnail>
 <link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movieSearch</jsonrpc>
+<jsonrpc>plugin://Merlin.Wizard/</jsonrpc>
 <fanart></fanart>
 </item>
 
 
 
 
-</item>
-<channel>
-<name>[COLOR lime]MENU VARIEDADES[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/2bpsQh.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/MENU%20VARIEDADES.xml</externallink>
-</channel>
-
-</item>
-<channel>
-<name>[COLOR lime]MENU VARIEDADES[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/2bpsQh.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/MENU%20VARIEDADES.xml</externallink>
-</channel>
 
 
 

@@ -7,7 +7,7 @@
 <item>
 <title>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]CLEAR CACHE[/COLOR]</title>
 <link>http://Movies.me</link>
-<jsonrpc>plugin://script.tvsupertugaguide</jsonrpc>
+<jsonrpc>script.tvsupertugaguide</jsonrpc>
 <thumbnail>https://lh4.ggpht.com/Ssuv0CPnQkYAx1RjrYwX1BiK6t44_6kIddRWIKqzRqkb26sGrIgUzr1VOHqxpsoD4g=w300</thumbnail>
 <fanart>https://goo.gl/9oQCFk</fanart>
 </item>

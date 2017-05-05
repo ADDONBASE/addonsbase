@@ -15,7 +15,7 @@
 
 
 <item>
-<title>[COLOR white]ADDON SETTINGS[/COLOR]</title
+<title>[COLOR lime]ADDON SETTINGS[/COLOR]</title
 <thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://script.tvsupertugaguide/?action=openSettings</jsonrpc>

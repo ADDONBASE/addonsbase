@@ -64,7 +64,7 @@
 <item>
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
 <link>http://Movies.me</link>
-<jsonrpc>plugin://script.module.stream.tvsupertuga.addon/?description&amp;iconimage=C%3a%5cUsers%5cAntonio%20Costa%5cAppData%5cRoaming%5cFreeTelly%5caddons%5cscript.module.stream.tvsupertuga.addon%5cresources%5cart%5crecently.png&amp;mode=503&amp;name=Recently%20Added&amp;url=https%3a%2f%2fgomovies.sc%2fmovie%2ffilter%2fmovies%2flatest%2fall%2fall%2fall%2fall%2f</jsonrpc>
+<jsonrpc>plugin://plugin.video.TVsupertuga/?action=movieNavigator</jsonrpc>
 <thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/ICONS/FILMES-INTERNACIONAIS.png</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 </item>
@@ -98,9 +98,8 @@
 <thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/ICONS/S%C3%89RIES-INTERNACIONAIS.png</thumbnail>
 <fanart>http://img01.deviantart.net/19da/i/2013/118/d/a/vikings_wallpaper_by_iamsointense-d62xwvb.jpg</fanart>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://script.module.stream.tvsupertuga.addon/?description&amp;iconimage=C%3a%5cUsers%5cAntonio%20Costa%5cAppData%5cRoaming%5cFreeTelly%5caddons%5cscript.module.stream.tvsupertuga.addon%5cresources%5cart%5cpopular.png&amp;mode=503&amp;name=Popular&amp;url=https%3a%2f%2fgomovies.sc%2fmovie%2ffilter%2fseasons%2ffavorite%2fall%2fall%2fall%2fall%2f</jsonrpc>
+<jsonrpc>plugin://plugin.video.TVsupertuga/?action=tvNavigator</jsonrpc>
 </item>
-
 
 
 <channel>

@@ -64,7 +64,7 @@
 <item>
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
 <link>http://Movies.me</link>
-<jsonrpc>plugin://plugin.video.TVsupertuga/?action=movieNavigator</jsonrpc>
+<jsonrpc>plugin://script.vodextende/?info=allmovies</jsonrpc>
 <thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/ICONS/FILMES-INTERNACIONAIS.png</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 </item>

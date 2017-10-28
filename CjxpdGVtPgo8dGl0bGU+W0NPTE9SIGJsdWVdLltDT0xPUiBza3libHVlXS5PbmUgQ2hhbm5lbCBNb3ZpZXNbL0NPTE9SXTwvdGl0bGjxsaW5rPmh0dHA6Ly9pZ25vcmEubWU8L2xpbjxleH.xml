@@ -64,7 +64,7 @@
 <item>
 <title>[COLOR white]INTERNACIONAIS[/COLOR]</title>
 <link>http://Movies.me</link>
-<jsonrpc>plugin://script.vodextende/?info=allmovies</jsonrpc>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/FILMES/INTERNACIONAIS.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/ICONS/FILMES-INTERNACIONAIS.png</thumbnail>
 <fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
 </item>
@@ -98,7 +98,7 @@
 <thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/ICONS/S%C3%89RIES-INTERNACIONAIS.png</thumbnail>
 <fanart>http://img01.deviantart.net/19da/i/2013/118/d/a/vikings_wallpaper_by_iamsointense-d62xwvb.jpg</fanart>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.TVsupertuga/?action=tvNavigator</jsonrpc>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/S%C3%89RIES/INTERNACIONAIS.xml</externallink>
 </item>
 
 
